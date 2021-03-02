@@ -1,6 +1,6 @@
 # hardwarezone_scraper
 
-An automated scraper that scrapes the hardwarezone forums.
+An automatic scraper for hardwarezone forums.
 
 ## Parameters
 
